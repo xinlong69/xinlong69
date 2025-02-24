@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 ICT (Major in Software Engineering) at Singapore Institute of Technology (SIT)<br/>
-💭 Currently learning about machine learning, cloud engineering and edge computing!<br/>
+💭 Currently learning about machine learning, big data w/ data engineering, and edge computing!<br/>
 
 <br/>
 
