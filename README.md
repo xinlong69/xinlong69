@@ -3,8 +3,6 @@
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 ICT (Major in Software Engineering) at Singapore Institute of Technology (SIT)<br/>
 
-<br/>
-
 ## 🌐 Let's Connect!
 <a href="https://www.linkedin.com/in/xinlonghe/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&&logo=linkedin&logoColor=white" /></a>
 
