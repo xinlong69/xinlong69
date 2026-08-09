@@ -1,10 +1,11 @@
-## 👋 Hi, I'm Xin Long 
+## Hi there👋 
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 ICT (Major in Software Engineering) at Singapore Institute of Technology (SIT)<br/>
+I'm a passionate Software Engineer with experience in Operations, Data and Artificial Intelligence. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions!
 
-## 🌐 Let's Connect!
-<a href="https://www.linkedin.com/in/xinlonghe/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&&logo=linkedin&logoColor=white" /></a>
+- 🔭 I'm currently working on open-sourcing all of my university projects
+- 🌱 I'm currently learning AI, ML and DevOps
+- 📫 How to reach me: [@xinlonghe](https://www.linkedin.com/in/xinlonghe/)
+- ⚡ Fun fact: I feel Pugs are the cutest dog breed 🐶
 
 <!--
 **xinlong69/xinlong69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
