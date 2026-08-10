@@ -3,7 +3,7 @@
 I'm a passionate Software Engineer with experience in Operations, Data and Artificial Intelligence. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions!
 
 - 🔭 I’m currently working on open-sourcing all (most) of my university projects!
-- 🌱 I’m currently learning PyTorch for ML/DL and trying out Kubernetes for deeper DevOps insights!
+- 🌱 I’m currently learning PyTorch for Deep Learning and trying out Kubernetes for deeper DevOps insights!
 - 📫 How to reach me: [@xinlonghe](https://www.linkedin.com/in/xinlonghe/)
 - ⚡ Fun fact: Pugs are the cutest dog breed imo 🐶
 
