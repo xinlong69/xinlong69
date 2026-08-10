@@ -2,10 +2,10 @@
 
 I'm a passionate Software Engineer with experience in Operations, Data and Artificial Intelligence. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions!
 
-- 🔭 I'm currently working on open-sourcing all of my university projects
-- 🌱 I'm currently learning AI, ML and DevOps
+- 🔭 I’m currently working on open-sourcing all (most) of my university projects!
+- 🌱 I’m currently learning PyTorch for ML/DL and trying out Kubernetes for deeper DevOps insights!
 - 📫 How to reach me: [@xinlonghe](https://www.linkedin.com/in/xinlonghe/)
-- ⚡ Fun fact: I feel Pugs are the cutest dog breed 🐶
+- ⚡ Fun fact: Pugs are the cutest dog breed imo 🐶
 
 <!--
 **xinlong69/xinlong69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
